@@ -44,8 +44,9 @@ HOMEBREW_FORMULAE=(
 )
 
 HOMEBREW_CASKS=(
+    zed
     maccy
-    fork
+    github
     httpie
     rancher
     spotify
@@ -53,7 +54,6 @@ HOMEBREW_CASKS=(
     google-chrome
     jetbrains-toolbox
     visual-studio-code
-    azure-data-studio
 )
 
 # Install Homebrew formulae
